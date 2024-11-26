@@ -1,4 +1,4 @@
-## Hi there 👋
+##  YO IM SAM 💀
 
 <a href="https://github.com/SamBlack569/Spotify-Readme">
   <picture>
