@@ -1,4 +1,6 @@
-![Sam's Bio](/samBio.gif)
+<p align="center">
+  <img src="gifs/samBioCrop.gif" alt="Sam's Bio">
+</p>
 
 <a href="https://github.com/SamBlack569/Spotify-Readme">
   <picture>
