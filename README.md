@@ -1,4 +1,4 @@
-##  YO IM SAM 💀
+![Sam's Bio](/samBio.gif)
 
 <a href="https://github.com/SamBlack569/Spotify-Readme">
   <picture>
