@@ -25,14 +25,17 @@
 <h3 align="center"> 👽🪐 Online Presence 🌐🤖</h3>
 
 <p align="center">
-  <a href="https://instagram.com/sam_black569">
+  <a href="https://instagram.com/sam_black569" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/sam-maciel-flw">
+  <a href="https://linkedin.com/in/sam-maciel-flw" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://open.spotify.com/user/08fzr0lxefzabzxzpurv7wk6s?si=54f452808a6e45ee&nd=1&dlsi=e848e383c3d8454a">
+  <a href="https://open.spotify.com/user/08fzr0lxefzabzxzpurv7wk6s?si=54f452808a6e45ee&nd=1&dlsi=e848e383c3d8454a" target="_blank">
     <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
+  </a>
+  <a href="https://www.youtube.com/@SticknBite" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
   <a href="https://www.goodreads.com/user/show/151519002-samuel-maciel">
     <img src="https://img.shields.io/badge/Goodreads-372213?style=for-the-badge&logo=goodreads&logoColor=white" />
