@@ -22,10 +22,19 @@
   </div>
 </div>
 
-### 🌟 Online Presence
+<h3 align="center"> 👽🪐 Online Presence 🌐🤖</h3>
 
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&color=E4405F&logoWidth=20)](https://instagram.com/sam_black569)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&color=0A66C2&logoWidth=20)](https://linkedin.com/in/sam-maciel-flw)
-[![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/08fzr0lxefzabzxzpurv7wk6s?si=54f452808a6e45ee&nd=1&dlsi=e848e383c3d8454a)
-[![Goodreads](https://img.shields.io/badge/Goodreads-372213?style=for-the-badge&logo=goodreads&logoColor=white)](https://www.goodreads.com/user/show/151519002-samuel-maciel)
-
+<p align="center">
+  <a href="https://instagram.com/sam_black569">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/sam-maciel-flw">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://open.spotify.com/user/08fzr0lxefzabzxzpurv7wk6s?si=54f452808a6e45ee&nd=1&dlsi=e848e383c3d8454a">
+    <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
+  </a>
+  <a href="https://www.goodreads.com/user/show/151519002-samuel-maciel">
+    <img src="https://img.shields.io/badge/Goodreads-372213?style=for-the-badge&logo=goodreads&logoColor=white" />
+  </a>
+</p>
